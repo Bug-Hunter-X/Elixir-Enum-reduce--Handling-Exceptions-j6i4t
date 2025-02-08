@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error scenario in Elixir's `Enum.reduce` function. The provided code attempts to sum numbers greater than 3, but lacks error handling for cases where the list contains non-numeric elements. This results in a runtime crash. The solution file provides an improved version with robust error handling.
